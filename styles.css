@@ -96,7 +96,7 @@ button:hover{
 .container-2{
   margin: -500px auto;
   width: 350px;
-  height: 350px;
+  height: 340px;
   background-color: hsl(213, 19%, 18%);
   align-items: center;
   padding: 20px;
@@ -149,10 +149,10 @@ button:hover{
     background-color: hsl(213, 19%, 23%);
     color: White;
     margin-right: 1.1rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    cursor: pointer;
-    padding: 1px;
   }
+  
+  .container-2{
+  width: 320px;
+  height: 340px;
+ }
 }
